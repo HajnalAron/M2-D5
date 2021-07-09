@@ -1,0 +1,48 @@
+#aronBody {
+    background-color: rgba(244, 245, 237, 0.712);
+}
+
+.aronHyperLink {
+    margin-bottom:0;
+    margin-top:0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.aronBold {
+    font-weight: 600;
+}
+
+.aronWeak {
+    color: rgba( 153, 153, 153, .75)
+}
+ 
+.strive-nav-dark {
+    background-color: #0f171e;
+    background-image: linear-gradient(180deg, #1b2530 0, rgba(27, 37, 48, 0.85));
+  }
+  .navbar-dark .nav-item .nav-link:hover,
+  .navbar-dark .nav-item .nav-link:focus {
+    color: rgba(255, 255, 255, 0.95);
+  }
+  .navbar-dark .active .nav-link {
+    font-weight: 700;
+    border-bottom: 1px solid white;
+  }
+  
+  .dropdown-menu {
+    background-color: #252e39;
+    padding: 0;
+  }
+  
+  .dropdown-item {
+    color: rgb(255 255 255 / 0.75);
+    padding: 14px 48px 14px 16px;
+    border-bottom: 1px solid rgb(50 62 76);
+  }
+  
+  .dropdown-item:focus,
+  .dropdown-item:hover {
+    color: white;
+    background-color: transparent;
+  }
